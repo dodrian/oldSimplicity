@@ -1,0 +1,116 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Pebble Technology",
+    "longName": "Simplicity",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/alarm.png",
+                "name": "ALARM",
+                "type": "png"
+            },
+            {
+                "file": "images/dataconn.png",
+                "name": "DATA_CONN",
+                "type": "png"
+            },
+            {
+                "file": "images/question.png",
+                "name": "QUESTION_MARK",
+                "type": "png"
+            },
+            {
+                "file": "images/wifisearch.png",
+                "name": "WIFI_SEARCH",
+                "type": "png"
+            },
+            {
+                "file": "images/wifioff.png",
+                "name": "WIFI_OFF",
+                "type": "png"
+            },
+            {
+                "file": "images/wificon.png",
+                "name": "WIFI_CON",
+                "type": "png"
+            },
+            {
+                "file": "images/cell2.png",
+                "name": "CELL2",
+                "type": "png"
+            },
+            {
+                "file": "images/cellexclaim.png",
+                "name": "NOCELL2",
+                "type": "png"
+            },
+            {
+                "file": "images/exclaim.png",
+                "name": "NOCELL",
+                "type": "png"
+            },
+            {
+                "file": "images/cell.png",
+                "name": "CELL",
+                "type": "png"
+            },
+            {
+                "file": "images/charge6.png",
+                "name": "BATTERY_CHARGE_6",
+                "type": "png"
+            },
+            {
+                "file": "images/charge5.png",
+                "name": "BATTERY_CHARGE_5",
+                "type": "png"
+            },
+            {
+                "file": "images/charge4.png",
+                "name": "BATTERY_CHARGE_4",
+                "type": "png"
+            },
+            {
+                "file": "images/charge3.png",
+                "name": "BATTERY_CHARGE_3",
+                "type": "png"
+            },
+            {
+                "file": "images/charge2.png",
+                "name": "BATTERY_CHARGE_2",
+                "type": "png"
+            },
+            {
+                "file": "images/full.png",
+                "name": "BATTERY_FULL",
+                "type": "png"
+            },
+            {
+                "file": "images/charging.png",
+                "name": "BATTERY_CHARGING",
+                "type": "png"
+            },
+            {
+                "file": "images/empty.png",
+                "name": "BATTERY_EMPTY",
+                "type": "png"
+            },
+            {
+                "file": "images/menu_icon_simplicity.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Simplicity",
+    "uuid": "030ee5fc-518b-49e5-b9b2-0700ee92af89",
+    "versionCode": 3,
+    "versionLabel": "3.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
